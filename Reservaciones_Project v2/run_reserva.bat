@@ -9,7 +9,7 @@ REM   • ReservaPuestos.py esté en la carpeta correcta
 REM ------------------------------------------------------------
 
 REM 1) Cambia al directorio donde está el script
-cd /d "C:\Users\romme\Downloads\Reservaciones_Project\Reservaciones_Project v2"
+cd /d "C:\Users\romme\Documents\Proyectos Webscrapping\Reservaciones\Reservaciones_Project v2"
 
 REM 2) Ejecuta el script
 python ReservaPuestos.py

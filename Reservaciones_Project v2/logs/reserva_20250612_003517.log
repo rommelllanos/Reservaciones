@@ -1,0 +1,261 @@
+2025-06-12 00:35:30 INFO: Sesión de Microsoft 365 válida. No se solicitó login.
+2025-06-12 00:35:33 INFO: [PA10] Se abrió la URL del formulario
+2025-06-12 00:35:34 INFO: [PA10] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:35:34 INFO: [PA10] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:35:34 INFO: [PA10] Se marcó la opción de área 'Panamá'
+2025-06-12 00:35:34 INFO: [PA10] Se marcó la opción de puesto 'PA10'
+2025-06-12 00:35:34 INFO: [PA10] Se agregó pserrano@veconinter.com en el primer campo de texto
+2025-06-12 00:35:34 INFO: [PA10] Se agregó Patricia Serrano en el segundo campo de texto
+2025-06-12 00:35:34 INFO: [PA10] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:35:35 INFO: [PA10] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:35:35 INFO: [PA10] ✓ Reserva completada para 'PA10'
+2025-06-12 00:35:37 INFO: [PA10] Se cerró el WebDriver 
+
+2025-06-12 00:35:37 INFO: --------------------------------------------
+2025-06-12 00:35:39 INFO: [PA9] Se abrió la URL del formulario
+2025-06-12 00:35:40 INFO: [PA9] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:35:40 INFO: [PA9] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:35:40 INFO: [PA9] Se marcó la opción de área 'Panamá'
+2025-06-12 00:35:40 INFO: [PA9] Se marcó la opción de puesto 'PA9'
+2025-06-12 00:35:40 INFO: [PA9] Se agregó jortega@veconinter.com en el primer campo de texto
+2025-06-12 00:35:40 INFO: [PA9] Se agregó Jesus Ortega en el segundo campo de texto
+2025-06-12 00:35:40 INFO: [PA9] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:35:41 INFO: [PA9] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:35:41 INFO: [PA9] ✓ Reserva completada para 'PA9'
+2025-06-12 00:35:44 INFO: [PA9] Se cerró el WebDriver 
+
+2025-06-12 00:35:44 INFO: --------------------------------------------
+2025-06-12 00:35:46 INFO: [PA8] Se abrió la URL del formulario
+2025-06-12 00:35:46 INFO: [PA8] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:35:46 INFO: [PA8] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:35:46 INFO: [PA8] Se marcó la opción de área 'Panamá'
+2025-06-12 00:35:47 INFO: [PA8] Se marcó la opción de puesto 'PA8'
+2025-06-12 00:35:47 INFO: [PA8] Se agregó jalbornoz@veconinter.com en el primer campo de texto
+2025-06-12 00:35:47 INFO: [PA8] Se agregó Jacqueline Albornoz en el segundo campo de texto
+2025-06-12 00:35:47 INFO: [PA8] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:35:48 INFO: [PA8] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:35:48 INFO: [PA8] ✓ Reserva completada para 'PA8'
+2025-06-12 00:35:50 INFO: [PA8] Se cerró el WebDriver 
+
+2025-06-12 00:35:50 INFO: --------------------------------------------
+2025-06-12 00:35:52 INFO: [PA7] Se abrió la URL del formulario
+2025-06-12 00:35:53 INFO: [PA7] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:35:53 INFO: [PA7] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:35:53 INFO: [PA7] Se marcó la opción de área 'Panamá'
+2025-06-12 00:35:53 INFO: [PA7] Se marcó la opción de puesto 'PA7'
+2025-06-12 00:35:53 INFO: [PA7] Se agregó mcrubio@veconinter.com en el primer campo de texto
+2025-06-12 00:35:53 INFO: [PA7] Se agregó Maria Claudia Rubio en el segundo campo de texto
+2025-06-12 00:35:53 INFO: [PA7] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:35:54 INFO: [PA7] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:35:54 INFO: [PA7] ✓ Reserva completada para 'PA7'
+2025-06-12 00:35:56 INFO: [PA7] Se cerró el WebDriver 
+
+2025-06-12 00:35:56 INFO: --------------------------------------------
+2025-06-12 00:35:58 INFO: [PA6] Se abrió la URL del formulario
+2025-06-12 00:35:59 INFO: [PA6] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:35:59 INFO: [PA6] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:35:59 INFO: [PA6] Se marcó la opción de área 'Panamá'
+2025-06-12 00:35:59 INFO: [PA6] Se marcó la opción de puesto 'PA6'
+2025-06-12 00:35:59 INFO: [PA6] Se agregó kmonsalve@veconinter.com en el primer campo de texto
+2025-06-12 00:35:59 INFO: [PA6] Se agregó Karen Monsalve en el segundo campo de texto
+2025-06-12 00:35:59 INFO: [PA6] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:36:00 INFO: [PA6] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:36:00 INFO: [PA6] ✓ Reserva completada para 'PA6'
+2025-06-12 00:36:03 INFO: [PA6] Se cerró el WebDriver 
+
+2025-06-12 00:36:03 INFO: --------------------------------------------
+2025-06-12 00:36:05 INFO: [PA5] Se abrió la URL del formulario
+2025-06-12 00:36:06 INFO: [PA5] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:36:06 INFO: [PA5] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:36:06 INFO: [PA5] Se marcó la opción de área 'Panamá'
+2025-06-12 00:36:06 INFO: [PA5] Se marcó la opción de puesto 'PA5'
+2025-06-12 00:36:06 INFO: [PA5] Se agregó jalves@veconinter.com en el primer campo de texto
+2025-06-12 00:36:06 INFO: [PA5] Se agregó Jonathan Alvez en el segundo campo de texto
+2025-06-12 00:36:06 INFO: [PA5] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:36:07 INFO: [PA5] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:36:07 INFO: [PA5] ✓ Reserva completada para 'PA5'
+2025-06-12 00:36:09 INFO: [PA5] Se cerró el WebDriver 
+
+2025-06-12 00:36:09 INFO: --------------------------------------------
+2025-06-12 00:36:12 INFO: [PA4] Se abrió la URL del formulario
+2025-06-12 00:36:12 INFO: [PA4] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:36:12 INFO: [PA4] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:36:12 INFO: [PA4] Se marcó la opción de área 'Panamá'
+2025-06-12 00:36:12 INFO: [PA4] Se marcó la opción de puesto 'PA4'
+2025-06-12 00:36:13 INFO: [PA4] Se agregó eshernandez@veconinter.com en el primer campo de texto
+2025-06-12 00:36:13 INFO: [PA4] Se agregó Esther Hernandez en el segundo campo de texto
+2025-06-12 00:36:13 INFO: [PA4] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:36:14 INFO: [PA4] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:36:14 INFO: [PA4] ✓ Reserva completada para 'PA4'
+2025-06-12 00:36:16 INFO: [PA4] Se cerró el WebDriver 
+
+2025-06-12 00:36:16 INFO: --------------------------------------------
+2025-06-12 00:36:18 INFO: [PA3] Se abrió la URL del formulario
+2025-06-12 00:36:19 INFO: [PA3] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:36:19 INFO: [PA3] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:36:19 INFO: [PA3] Se marcó la opción de área 'Panamá'
+2025-06-12 00:36:19 INFO: [PA3] Se marcó la opción de puesto 'PA3'
+2025-06-12 00:36:19 INFO: [PA3] Se agregó yoliveros@veconinter.com en el primer campo de texto
+2025-06-12 00:36:19 INFO: [PA3] Se agregó Yotzy Oliveros en el segundo campo de texto
+2025-06-12 00:36:19 INFO: [PA3] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:36:20 INFO: [PA3] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:36:20 INFO: [PA3] ✓ Reserva completada para 'PA3'
+2025-06-12 00:36:22 INFO: [PA3] Se cerró el WebDriver 
+
+2025-06-12 00:36:22 INFO: --------------------------------------------
+2025-06-12 00:36:25 INFO: [PA2] Se abrió la URL del formulario
+2025-06-12 00:36:25 INFO: [PA2] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:36:25 INFO: [PA2] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:36:25 INFO: [PA2] Se marcó la opción de área 'Panamá'
+2025-06-12 00:36:25 INFO: [PA2] Se marcó la opción de puesto 'PA2'
+2025-06-12 00:36:25 INFO: [PA2] Se agregó kzapata@veconinter.com en el primer campo de texto
+2025-06-12 00:36:25 INFO: [PA2] Se agregó Kevin Zapata en el segundo campo de texto
+2025-06-12 00:36:26 INFO: [PA2] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:36:27 INFO: [PA2] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:36:27 INFO: [PA2] ✓ Reserva completada para 'PA2'
+2025-06-12 00:36:29 INFO: [PA2] Se cerró el WebDriver 
+
+2025-06-12 00:36:29 INFO: --------------------------------------------
+2025-06-12 00:36:31 INFO: [PA1] Se abrió la URL del formulario
+2025-06-12 00:36:32 INFO: [PA1] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:36:32 INFO: [PA1] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:36:32 INFO: [PA1] Se marcó la opción de área 'Panamá'
+2025-06-12 00:36:32 INFO: [PA1] Se marcó la opción de puesto 'PA1'
+2025-06-12 00:36:32 INFO: [PA1] Se agregó rllanos@veconinter.com en el primer campo de texto
+2025-06-12 00:36:32 INFO: [PA1] Se agregó Rommel Llanos en el segundo campo de texto
+2025-06-12 00:36:32 INFO: [PA1] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:36:33 INFO: [PA1] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:36:33 INFO: [PA1] ✓ Reserva completada para 'PA1'
+2025-06-12 00:36:35 INFO: [PA1] Se cerró el WebDriver 
+
+2025-06-12 00:36:35 INFO: --------------------------------------------
+2025-06-12 00:36:37 INFO: [BB1] Se abrió la URL del formulario
+2025-06-12 00:36:38 INFO: [BB1] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:36:38 INFO: [BB1] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:36:38 INFO: [BB1] Se marcó la opción de área 'Barbados'
+2025-06-12 00:36:38 INFO: [BB1] Se marcó la opción de puesto 'BB1'
+2025-06-12 00:36:38 INFO: [BB1] Se agregó rrosa@veconinter.com en el primer campo de texto
+2025-06-12 00:36:38 INFO: [BB1] Se agregó Ronald de la Rosa en el segundo campo de texto
+2025-06-12 00:36:38 INFO: [BB1] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:36:39 INFO: [BB1] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:36:39 INFO: [BB1] ✓ Reserva completada para 'BB1'
+2025-06-12 00:36:41 INFO: [BB1] Se cerró el WebDriver 
+
+2025-06-12 00:36:41 INFO: --------------------------------------------
+2025-06-12 00:36:44 INFO: [BB2] Se abrió la URL del formulario
+2025-06-12 00:36:44 INFO: [BB2] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:36:44 INFO: [BB2] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:36:44 INFO: [BB2] Se marcó la opción de área 'Barbados'
+2025-06-12 00:36:44 INFO: [BB2] Se marcó la opción de puesto 'BB2'
+2025-06-12 00:36:44 INFO: [BB2] Se agregó yusalazar@veconinter.com en el primer campo de texto
+2025-06-12 00:36:45 INFO: [BB2] Se agregó Yuraima Salazar en el segundo campo de texto
+2025-06-12 00:36:45 INFO: [BB2] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:36:46 INFO: [BB2] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:36:46 INFO: [BB2] ✓ Reserva completada para 'BB2'
+2025-06-12 00:36:48 INFO: [BB2] Se cerró el WebDriver 
+
+2025-06-12 00:36:48 INFO: --------------------------------------------
+2025-06-12 00:36:50 INFO: [BB3] Se abrió la URL del formulario
+2025-06-12 00:36:51 INFO: [BB3] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:36:51 INFO: [BB3] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:36:51 INFO: [BB3] Se marcó la opción de área 'Barbados'
+2025-06-12 00:36:51 INFO: [BB3] Se marcó la opción de puesto 'BB3'
+2025-06-12 00:36:51 INFO: [BB3] Se agregó mcelis@veconinter.com en el primer campo de texto
+2025-06-12 00:36:51 INFO: [BB3] Se agregó Maurio Celis en el segundo campo de texto
+2025-06-12 00:36:51 INFO: [BB3] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:36:52 INFO: [BB3] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:36:52 INFO: [BB3] ✓ Reserva completada para 'BB3'
+2025-06-12 00:36:54 INFO: [BB3] Se cerró el WebDriver 
+
+2025-06-12 00:36:54 INFO: --------------------------------------------
+2025-06-12 00:36:56 INFO: [BB4] Se abrió la URL del formulario
+2025-06-12 00:36:57 INFO: [BB4] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:36:57 INFO: [BB4] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:36:57 INFO: [BB4] Se marcó la opción de área 'Barbados'
+2025-06-12 00:36:57 INFO: [BB4] Se marcó la opción de puesto 'BB4'
+2025-06-12 00:36:57 INFO: [BB4] Se agregó jpaternina@veconinter.com en el primer campo de texto
+2025-06-12 00:36:57 INFO: [BB4] Se agregó Javier Paternina en el segundo campo de texto
+2025-06-12 00:36:57 INFO: [BB4] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:36:58 INFO: [BB4] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:36:58 INFO: [BB4] ✓ Reserva completada para 'BB4'
+2025-06-12 00:37:01 INFO: [BB4] Se cerró el WebDriver 
+
+2025-06-12 00:37:01 INFO: --------------------------------------------
+2025-06-12 00:37:03 INFO: [BB5] Se abrió la URL del formulario
+2025-06-12 00:37:03 INFO: [BB5] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:37:03 INFO: [BB5] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:37:03 INFO: [BB5] Se marcó la opción de área 'Barbados'
+2025-06-12 00:37:03 INFO: [BB5] Se marcó la opción de puesto 'BB5'
+2025-06-12 00:37:04 INFO: [BB5] Se agregó elozada@veconinter.com en el primer campo de texto
+2025-06-12 00:37:04 INFO: [BB5] Se agregó Emerio Lozada en el segundo campo de texto
+2025-06-12 00:37:04 INFO: [BB5] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:37:05 INFO: [BB5] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:37:05 INFO: [BB5] ✓ Reserva completada para 'BB5'
+2025-06-12 00:37:07 INFO: [BB5] Se cerró el WebDriver 
+
+2025-06-12 00:37:07 INFO: --------------------------------------------
+2025-06-12 00:37:09 INFO: [BB6] Se abrió la URL del formulario
+2025-06-12 00:37:10 INFO: [BB6] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:37:10 INFO: [BB6] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:37:10 INFO: [BB6] Se marcó la opción de área 'Barbados'
+2025-06-12 00:37:10 INFO: [BB6] Se marcó la opción de puesto 'BB6'
+2025-06-12 00:37:10 INFO: [BB6] Se agregó adrodriguez@veconinter.com en el primer campo de texto
+2025-06-12 00:37:10 INFO: [BB6] Se agregó Adriadna Rodriguez en el segundo campo de texto
+2025-06-12 00:37:10 INFO: [BB6] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:37:11 INFO: [BB6] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:37:11 INFO: [BB6] ✓ Reserva completada para 'BB6'
+2025-06-12 00:37:13 INFO: [BB6] Se cerró el WebDriver 
+
+2025-06-12 00:37:13 INFO: --------------------------------------------
+2025-06-12 00:37:15 INFO: [BB7] Se abrió la URL del formulario
+2025-06-12 00:37:16 INFO: [BB7] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:37:16 INFO: [BB7] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:37:16 INFO: [BB7] Se marcó la opción de área 'Barbados'
+2025-06-12 00:37:16 INFO: [BB7] Se marcó la opción de puesto 'BB7'
+2025-06-12 00:37:16 INFO: [BB7] Se agregó gpedrique@veconinter.com en el primer campo de texto
+2025-06-12 00:37:16 INFO: [BB7] Se agregó Geraldine Pedrique en el segundo campo de texto
+2025-06-12 00:37:16 INFO: [BB7] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:37:18 INFO: [BB7] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:37:18 INFO: [BB7] ✓ Reserva completada para 'BB7'
+2025-06-12 00:37:20 INFO: [BB7] Se cerró el WebDriver 
+
+2025-06-12 00:37:20 INFO: --------------------------------------------
+2025-06-12 00:37:22 INFO: [BB8] Se abrió la URL del formulario
+2025-06-12 00:37:22 INFO: [BB8] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:37:22 INFO: [BB8] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:37:23 INFO: [BB8] Se marcó la opción de área 'Barbados'
+2025-06-12 00:37:23 INFO: [BB8] Se marcó la opción de puesto 'BB8'
+2025-06-12 00:37:23 INFO: [BB8] Se agregó sbenavides@veconinter.com en el primer campo de texto
+2025-06-12 00:37:23 INFO: [BB8] Se agregó Sofia Benavides en el segundo campo de texto
+2025-06-12 00:37:23 INFO: [BB8] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:37:24 INFO: [BB8] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:37:24 INFO: [BB8] ✓ Reserva completada para 'BB8'
+2025-06-12 00:37:26 INFO: [BB8] Se cerró el WebDriver 
+
+2025-06-12 00:37:26 INFO: --------------------------------------------
+2025-06-12 00:37:28 INFO: [BB9] Se abrió la URL del formulario
+2025-06-12 00:37:29 INFO: [BB9] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:37:29 INFO: [BB9] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:37:29 INFO: [BB9] Se marcó la opción de área 'Barbados'
+2025-06-12 00:37:29 INFO: [BB9] Se marcó la opción de puesto 'BB9'
+2025-06-12 00:37:29 INFO: [BB9] Se agregó volivares@veconinter.com en el primer campo de texto
+2025-06-12 00:37:29 INFO: [BB9] Se agregó Valeria Olivares en el segundo campo de texto
+2025-06-12 00:37:29 INFO: [BB9] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:37:30 INFO: [BB9] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:37:30 INFO: [BB9] ✓ Reserva completada para 'BB9'
+2025-06-12 00:37:32 INFO: [BB9] Se cerró el WebDriver 
+
+2025-06-12 00:37:32 INFO: --------------------------------------------
+2025-06-12 00:37:35 INFO: [BB10] Se abrió la URL del formulario
+2025-06-12 00:37:35 INFO: [BB10] Se hizo clic en 'Start now' con espera corta (2s)
+2025-06-12 00:37:35 INFO: [BB10] Se marcó la opción de piso '17 - América del Norte'
+2025-06-12 00:37:35 INFO: [BB10] Se marcó la opción de área 'Barbados'
+2025-06-12 00:37:35 INFO: [BB10] Se marcó la opción de puesto 'BB10'
+2025-06-12 00:37:35 INFO: [BB10] Se agregó jmartinez@veconinter.com en el primer campo de texto
+2025-06-12 00:37:36 INFO: [BB10] Se agregó Jackeline Martinez en el segundo campo de texto
+2025-06-12 00:37:36 INFO: [BB10] Se ingresó '6/17/2025' en el campo de fecha
+2025-06-12 00:37:37 INFO: [BB10] Se hizo clic en el botón 'Enviar'
+2025-06-12 00:37:37 INFO: [BB10] ✓ Reserva completada para 'BB10'
+2025-06-12 00:37:39 INFO: [BB10] Se cerró el WebDriver 
+
+2025-06-12 00:37:39 INFO: --------------------------------------------

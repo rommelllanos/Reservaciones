@@ -65,6 +65,12 @@ puestos = [
     ["17 - América del Norte", "Barbados", "BB3", "mcelis",       "Maurio Celis"],
     ["17 - América del Norte", "Barbados", "BB4", "jpaternina",   "Javier Paternina"],
     ["17 - América del Norte", "Barbados", "BB5", "elozada",      "Emerio Lozada"],
+    ["17 - América del Norte", "Barbados", "BB6", "adrodriguez",      "Adriadna Rodriguez"],
+    ["17 - América del Norte", "Barbados", "BB7", "gpedrique",      "Geraldine Pedrique"],
+    ["17 - América del Norte", "Barbados", "BB8", "sbenavides",      "Sofia Benavides"],
+    ["17 - América del Norte", "Barbados", "BB9", "volivares",      "Valeria Olivares"],
+    ["17 - América del Norte", "Barbados", "BB10", "jmartinez",      "Jackeline Martinez"],
+
 ]
 
 # Credenciales de Microsoft 365 (modificar aquí si cambian)
